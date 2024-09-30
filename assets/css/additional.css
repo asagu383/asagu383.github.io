@@ -1,0 +1,15 @@
+:root {
+    --teal: #588b8b;
+    --white: #ffffff;
+    --cedar: #ffd5c2;
+    --orange: #f28f3b;
+    --red: #c8553d;
+}
+
+.content span {
+    color: var(--red);
+}
+
+.inner span {
+    font-weight: 500;
+}
